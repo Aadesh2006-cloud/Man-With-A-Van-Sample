@@ -1,0 +1,6 @@
+{
+  "name": "Man With A Van Moving Company",
+  "description": "Professional residential and commercial moving experts. Local and interstate relocation, office moving, storage solutions, and labor services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
